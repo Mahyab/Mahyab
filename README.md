@@ -6,7 +6,7 @@ A junior FrontEnd dev
     *SCSS
     *JavaScript
     *ReactJS
-    *Python (NOT IN ADVANCE LEVEL)
+    *Python
  
  
  <div id="header" align="center">
