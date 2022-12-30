@@ -1,12 +1,5 @@
 
-Mahya is here
-A junior FrontEnd dev 
-    *HTML
-    *CSS
-    *SCSS
-    *JavaScript
-    *ReactJS
-    *Python
+
  
  
  <div id="header" align="center">
