@@ -28,4 +28,4 @@ let learningSkills = [
             ];
 ```
   # contact 💬
-[![image](https://img.shields.io/badge/Gmail-mahyab79%40gmail%2Ccom-red)](https://www.linkedin.com/in/mahyabehboudi/)
+  [![image](https://img.shields.io/badge/linkdin-mahyaBehboudi-blue)](https://www.linkedin.com/in/mahyabehboudi/)
