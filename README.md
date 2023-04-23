@@ -1,6 +1,11 @@
    
  ## Hi there 👋 :)!
 
+
+ <div align="right">
+  <img src="https://media.giphy.com/media/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="100"/>
+</div>
+
   
  ```js
 const name = "Mahya Behboudi";
@@ -25,8 +30,3 @@ let learningSkills = [
   # contact 💬
 [![image](https://img.shields.io/badge/linkdin-mahyaBehboudi-blue)](https://www.linkedin.com/in/mahyabehboudi/)
 [![image](https://img.shields.io/badge/Gmail-mahyab79%40gmail%2Ccom-red)](https://www.linkedin.com/in/mahyabehboudi/)
-
-
- <div align="right">
-  <img src="https://media.giphy.com/media/Qt1jk5Q49C3h5CrlBe/giphy.gif" width="100"/>
-</div>
