@@ -23,8 +23,7 @@ let currencySkills = [
 let learningSkills = [
                 TypeScript,
                 vueJs,
-                tailwind,
-                docker
+                tailwind
             ];
 ```
   # contact 💬
