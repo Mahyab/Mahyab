@@ -19,11 +19,12 @@ let currencySkills = [
                Redux,
                Mui,
                bootstrap,
+               tailwind,
+               TypeScript
             ];
 let learningSkills = [
-                TypeScript,
+               NextJs,
                 vueJs,
-                tailwind
             ];
 ```
   # contact 💬
