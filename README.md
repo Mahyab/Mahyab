@@ -11,19 +11,18 @@
 const name = "Mahya Behboudi";
 const career = "FrontEnd developer";
 let currencySkills = [
+               Html,
                css,
                sass,
-               Html,
                JavaScript,
                ReactJs,
                Redux,
-               Mui,
                bootstrap,
                tailwind,
-               TypeScript
+               TypeScript,
+               NextJs,
             ];
 let learningSkills = [
-               NextJs,
                 vueJs,
             ];
 ```
